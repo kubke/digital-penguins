@@ -1,8 +1,8 @@
 # digital-penguins
 NZ-AUS digital skills training discussion group
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Yellow-eyed_Penguin_Banks_Peninsula_2.jpg/301px-Yellow-eyed_Penguin_Banks_Peninsula_2.jpg) 
-Citation: [WikiMedia](https://commons.wikimedia.org/wiki/File:Yellow-eyed_Penguin_Banks_Peninsula_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_yellow-eyed_penguin._NZ_%2826256510661%29.jpg/640px-The_yellow-eyed_penguin._NZ_%2826256510661%29.jpg) 
+Citation: [WikiMedia](https://commons.wikimedia.org/wiki/File:The_yellow-eyed_penguin._NZ_(26256510661).jpg)
 
 
 
