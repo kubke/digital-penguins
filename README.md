@@ -2,6 +2,7 @@
 NZ-AUS digital skills training discussion group
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_yellow-eyed_penguin._NZ_%2826256510661%29.jpg/640px-The_yellow-eyed_penguin._NZ_%2826256510661%29.jpg) 
+
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) by Bernard Spragg [From: WikiMedia](https://commons.wikimedia.org/wiki/File:The_yellow-eyed_penguin._NZ_(26256510661).jpg)
 
 
