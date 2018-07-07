@@ -7,7 +7,7 @@ Citation: [WikiMedia](https://commons.wikimedia.org/wiki/File:The_yellow-eyed_pe
 
 
 # References to current activities
-* Australia New Zealand RSE community repo: https://github.com/rse-aunz
+* Australia New Zealand RSE community repo: https://github.com/rse-aunz - join the mailing list! https://groups.google.com/forum/?#!forum/rse-nz-au
 * NeSI computational skills training: https://www.nesi.org.nz/services/training
 * NeSI Training Strategy view: https://github.com/kubke/nesi-training
 * Science Coding Conference 2018: http://nesi-cri.nz/
